@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jagadeesh, completed my bachelors in Electronics and Communication Engineering and currently working as a Jr.Software Developer @Zensar
-- 👀 I’m interested in Microsoft Full Stack Web Development, Machine learning, Deep Learning and Robotics
-- 🌱 I’m currently learning C# and front-end technologies to become a good web developer
+- 👋 Hi, I’m Jagadeesh, completed my bachelors in Electronics and Communication Engineering
+- 👀 I’m interested in Data Science and Analytics, Machine learning, Deep Learning.
+- 🌱 I’m currently learning Machine Learning, Data visualization and time series to become a better data scientist.
 - 📫 You can reach me on Linkedin @ Bodavula Jagadeesh
